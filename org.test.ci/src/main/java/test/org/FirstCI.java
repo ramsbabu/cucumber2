@@ -8,6 +8,7 @@ public class FirstCI {
 		System.out.println("Test this project");
 		System.out.println("Test second branch commit project");
 		System.out.println("Test Third Branch");
+		System.out.println("Test fourth Branch");
 		
 
 	}
