@@ -19,9 +19,8 @@ public class FirstCI {
 		System.out.println("seventh branch changes");
 		System.out.println("eigth branch changes");
 		System.out.println("ninth branch changes");
-		
-	
-		
+		int b =10;
+		int a = b +1;
 
 	}
 
