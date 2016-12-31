@@ -14,6 +14,9 @@ public class FirstCI {
 		System.out.println("Test first merg33");
 		System.out.println("second branch changes");
 		System.out.println("second branch changes seccond time");
+		System.out.println("Third branch changes");
+		System.out.println("fourth branch changes");
+		System.out.println("seventh branch changes");
 	
 		
 
